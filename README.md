@@ -2,7 +2,6 @@
 
 This repository contains a collection of UI components and screens designed during my UI/UX internship at Cortexis Solution Hub.
 The project focuses on creating intuitive, accessible, and visually appealing user interfaces for web and mobile applications.
-
 📁 Components Designed
 🛒 E-commerce Product Card – Clean and conversion-focused layout
 📱 Mobile Navigation Bar – Accessible and responsive bottom nav
